@@ -1,3 +1,8 @@
+**Contact information**<br>
+email: elenazoppellari@gmail.com 
+<br>
+Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
+
 **Hello world!** 🦊
 <br>
 I am a **Physics graduate** who has developed a fascination for computer science, in particular for **deep learning** for **computer vision** and **natural language processing**.<br>
@@ -54,7 +59,3 @@ The exercises cover both basic and advanced statistic topics. Developed in R lan
 Using both plotting and a simple machine learning algorithm, a random forest, we **determined that the features that have the greatest impact on the fate of a binary black holes** in nuclear star clusters, globular clusters and young star clusters are: black hole masses, spin magnitudes, escape velocities, total masses of the star clusters and the number of generations involved. 
 <br>
 <br>
-**Contact information**<br>
-email: elenazoppellari@gmail.com 
-<br>
-Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
