@@ -8,8 +8,8 @@ Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
 I am a **Physics graduate** who has developed a fascination for computer science, in particular for **deep learning** for **computer vision** and **natural language processing**.<br>
 In my page you will find some of the projects and works that I have developed during my **MSc in Physics of Data** @ University of Padova:
 
-🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main) (*work in progress*)
-<br> Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms, integration schemes, interaction potentials, thermostats, and Langevin dynamics.
+🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)
+<br> Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
 
 🧠 [**Estimation and Analysis of Mutual Information in a Recurrent Neural Network**](https://github.com/zoppellarielena/Estimation-and-Analysis-of-Mutual-Information-in-a-Recurrent-Neural-Network) (*jan - mar 2024*)
 <br>  We conducted an analysis on the **mutual information between the layers of a recurrent neural network for a cognitive task**, implementing various estimators and particularly effectively adapting the estimator proposed by Kolchinsky et al. (2017). We also studied the **role of individual neurons** in the process, observing differentiated behaviors in terms of intensity and activation times.  
