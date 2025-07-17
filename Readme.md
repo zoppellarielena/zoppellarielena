@@ -51,11 +51,11 @@ We developed a Multinomial Naive Bayes in **R** for fake news classification wit
 Together with the team, I developed an **LSTM to provide predictions on the hydrological basins of the CAMELS dataset** using Keras in Python. We attempted to **add an encoder to the model**, which proved to perform better than the LSTM alone by **leveraging the statistical information from the input**. The project was supervised by Professor Carlo Albert from the Swiss Federal Institute of Aquatic Science and Technology.
 <br>
 <br>
-🧭 [**Exercises in R for Advanced Statistics course**](https://github.com/zoppellarielena/Exercises-for-Advanced-Statistics-for-Physics-Analysis) (*mar - jun 2022*)<br>
+🧭 [**Exercises in R for Advanced Statistics course**](https://github.com/zoppellarielena/Exercises-for-Advanced-Statistics-for-Physics-Analysis)<br>
 The exercises cover both basic and advanced statistic topics. Developed in R language.
 <br>
 <br>
-🌌 [**Hierarchical mergers of binary black holes**](https://github.com/zoppellarielena/Hierarchical-Mergers-of-Binary-Black-Holes) (*feb - mar 2022*)<br>
+🌌 [**Hierarchical mergers of binary black holes**](https://github.com/zoppellarielena/Hierarchical-Mergers-of-Binary-Black-Holes) <br>
 Using both plotting and a simple machine learning algorithm, a random forest, we **determined that the features that have the greatest impact on the fate of a binary black holes** in nuclear star clusters, globular clusters and young star clusters are: black hole masses, spin magnitudes, escape velocities, total masses of the star clusters and the number of generations involved. 
 <br>
 <br>
