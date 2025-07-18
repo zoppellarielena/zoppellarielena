@@ -7,32 +7,32 @@ Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
 <br>
 I am a **Physics graduate** who has developed a fascination for artificial intelligence, in particular for **computer vision** and **natural language processing**.<br>
 In my page you will find some of the projects and works that I have developed during my **MSc in Physics of Data** @ University of Padova:<br>
-
+<br>
 🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
 This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
 <br>
-
+<br>
 🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)<br>
 Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
 <br>
-
+<br>
 🧠 [**Estimation and Analysis of Mutual Information in a Recurrent Neural Network**](https://github.com/zoppellarielena/Estimation-and-Analysis-of-Mutual-Information-in-a-Recurrent-Neural-Network)<br>
 We conducted an analysis on the **mutual information between the layers of a recurrent neural network for a cognitive task**, implementing various estimators and particularly effectively adapting the estimator proposed by Kolchinsky et al. (2017). We also studied the **role of individual neurons** in the process, observing differentiated behaviors in terms of intensity and activation times.  
 <br>
-
+<br>
 👁️ [**Simulating Real-World Challenges: Blind Face Restoration and Upscaling**](https://github.com/zoppellarielena/Blind-Face-Restoration-and-Upscaling)<br>
 We adapted the **progressive GAN** by Kim et al. (2019) for the **reconstruction of blurred faces under non-deterministic conditions**. Specifically, we designed an encoder and introduced a dynamic training strategy with an attention loss based on geometric prior. The results show a **significant improvement in the realism of the images**, reducing FID, LPIPS, and NIQE.
 <br>
-
+<br>
 🌴 [**Exercises for Physical Models for Living Systems**](https://github.com/zoppellarielena/Exercises-for-Physical-Models-for-Living-Systems)<br>
 Homework 1-3: Focus on ecology modeling, covering topics such as linear stability analysis, quasi-stationary approximation, and matrix eigenvalue calculations for different ecological structures.
 <br>Homework 4-7: Address theoretical neuroscience, involving tasks such as generating spike trains for neurons, stability analysis of the Wilson-Cowan model, and simulations related to feedback loops in genetic networks.
 <br>
-
+<br>
 🏃‍♀️ [**Mini-Batch K-means on RCV1 dataset using Dask**](https://github.com/zoppellarielena/Mini-Batch-K-means-on-RCV1-dataset-using-Dask)<br>
 Together with my team, I implemented Mini-Batch K-Means on the vast **RCV1 dataset of over 250GB**, with over 800k articles each with 50k features, using **Dask in Python for parallelizing the process** and three Virtual Machines on CloudVeneto. The results, evaluated through the analysis of the Dask dashboard and execution time, guided the optimization of the configuration for optimal performance
 <br>
-
+<br>
 ✍️ [**BiLSTM vs BERT in feature extraction for Neural Dependency Parsing**](https://github.com/zoppellarielena/BiLSTM-vs-BERT-in-feature-extraction-for-Neural-Dependency-Parsing)<br>
 In this project, my team implemented **two feature extractors to improve an ArcEager parser**: a **BiLSTM**, achieving a UAS of 82%, and a **fine-tuning of BERT**, with a UAS of 85%, compared to a SoTA value of 93%. For the BERT model, an **analysis of the predicted moves** is provided, observing better performance for *shift* and *reduce*.
 <br>
