@@ -14,7 +14,7 @@ This project explores how **persistent neural activity**, firing that continues 
 
 🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)<br>
 Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
-
+<br>
 🧠 [**Estimation and Analysis of Mutual Information in a Recurrent Neural Network**](https://github.com/zoppellarielena/Estimation-and-Analysis-of-Mutual-Information-in-a-Recurrent-Neural-Network)<br>
 We conducted an analysis on the **mutual information between the layers of a recurrent neural network for a cognitive task**, implementing various estimators and particularly effectively adapting the estimator proposed by Kolchinsky et al. (2017). We also studied the **role of individual neurons** in the process, observing differentiated behaviors in terms of intensity and activation times.  
 <br>
