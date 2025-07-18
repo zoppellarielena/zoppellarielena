@@ -8,7 +8,7 @@ Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
 <br>
 I am a **Physics graduate** who has developed a fascination for artificial intelligence, in particular for **computer vision** and **natural language processing**.<br>
 In my page you will find some of the projects and works that I have developed during my **MSc in Physics of Data** @ University of Padova:<br>
-<br><br>
+</div>
 
 🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
 This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
