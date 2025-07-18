@@ -1,3 +1,4 @@
+
 **Contact information**<br>
 email: elenazoppellari@gmail.com 
 <br>
@@ -10,7 +11,6 @@ In my page you will find some of the projects and works that I have developed du
 <br>
 🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
 This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
-<br>
 <br>
 🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)<br>
 Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
