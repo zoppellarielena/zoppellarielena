@@ -8,6 +8,10 @@ Linkedin: [Elena Zoppellari](https://www.linkedin.com/in/elena-zoppellari/)
 I am a **Physics graduate** who has developed a fascination for computer science, in particular for **deep learning** for **computer vision** and **natural language processing**.<br>
 In my page you will find some of the projects and works that I have developed during my **MSc in Physics of Data** @ University of Padova:
 
+🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
+<br> This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
+<br>
+
 🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)<br>
 <br> Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
 
