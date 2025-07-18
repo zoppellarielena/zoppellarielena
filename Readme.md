@@ -9,17 +9,17 @@ I am a **Physics graduate** who has developed a fascination for computer science
 In my page you will find some of the projects and works that I have developed during my **MSc in Physics of Data** @ University of Padova:
 
 🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
-<br> This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
+This project explores how **persistent neural activity**, firing that continues after a stimulus is removed, can be reproduced through both **three-population structured models** (L excitatory, R excitatory and Inhibitory neurons) and **trained chaotic recurrent neural networks** (RNNs) via FORCE Learning.  
 <br>
 
 🌈 [**Reports for Numerical Methods in Soft Matter**](https://github.com/zoppellarielena/Exercises_for_Numerical_Methods_in_Soft_Matter/tree/main)<br>
-<br> Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
+Topics: Monte Carlo and Molecular Dynamics simulation methods, including random sampling techniques, Markov Chains, Ising model simulations, advanced sampling algorithms and Langevin dynamics.
 
 🧠 [**Estimation and Analysis of Mutual Information in a Recurrent Neural Network**](https://github.com/zoppellarielena/Estimation-and-Analysis-of-Mutual-Information-in-a-Recurrent-Neural-Network)<br>
-<br>  We conducted an analysis on the **mutual information between the layers of a recurrent neural network for a cognitive task**, implementing various estimators and particularly effectively adapting the estimator proposed by Kolchinsky et al. (2017). We also studied the **role of individual neurons** in the process, observing differentiated behaviors in terms of intensity and activation times.  
+<We conducted an analysis on the **mutual information between the layers of a recurrent neural network for a cognitive task**, implementing various estimators and particularly effectively adapting the estimator proposed by Kolchinsky et al. (2017). We also studied the **role of individual neurons** in the process, observing differentiated behaviors in terms of intensity and activation times.  
 <br>
 👁️ [**Simulating Real-World Challenges: Blind Face Restoration and Upscaling**](https://github.com/zoppellarielena/Blind-Face-Restoration-and-Upscaling)<br>
-<br>  We adapted the **progressive GAN** by Kim et al. (2019) for the **reconstruction of blurred faces under non-deterministic conditions**. Specifically, we designed an encoder and introduced a dynamic training strategy with an attention loss based on geometric prior. The results show a **significant improvement in the realism of the images**, reducing FID, LPIPS, and NIQE.
+We adapted the **progressive GAN** by Kim et al. (2019) for the **reconstruction of blurred faces under non-deterministic conditions**. Specifically, we designed an encoder and introduced a dynamic training strategy with an attention loss based on geometric prior. The results show a **significant improvement in the realism of the images**, reducing FID, LPIPS, and NIQE.
 <br>
 <br>
 🌴 [**Exercises for Physical Models for Living Systems**](https://github.com/zoppellarielena/Exercises-for-Physical-Models-for-Living-Systems)<br>
